@@ -1,0 +1,8 @@
+opencv-python-headless
+dlib
+numpy
+Pillow
+matplotlib
+insightface
+onnxruntime
+gradio
